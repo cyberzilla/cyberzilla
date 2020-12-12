@@ -36,5 +36,7 @@
 
 
 <div align='center'>
+
 # **coding** *is* **art**.
+
 </div>
