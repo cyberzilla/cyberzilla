@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abydzakiyyah) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abydzakiyyah) 
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/abudzakiyyah) 
-[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.org/@cyberzilla)
+[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://telegram.org/@abydzakiyyah)
 [![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abydzakiyyah)
 [![Website](https://img.shields.io/badge/website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dzakiyyah.com)
 
