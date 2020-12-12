@@ -11,8 +11,8 @@
 ## My Stats
 <p>
 <a href="https://abu.dzakiyyah.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberzilla&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberzilla&theme=merko&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cyberzilla&show_icons=true&theme=merko" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyberzilla&theme=merko&layout=compact" />
 </a>
 </p>
 
