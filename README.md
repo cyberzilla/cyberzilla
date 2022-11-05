@@ -37,6 +37,8 @@
 
 <div align='center'>
 
-# **coding** *is* **art**.
+## Highlights
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70707&center=true&vCenter=true&width=470&lines=Software+Engineer+%7C+Ruqyah+Practitioner;Coding+is+Art+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;VB+Classic+%7C+PHP+%7C+HTML+%7C+CSS3+%7C+HTML5)](https://git.io/typing-svg)
 
 </div>
