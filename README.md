@@ -1,4 +1,4 @@
-# Hi, I'm Abu Dzakiyyah (:coffee::bulb::computer::heart:)
+# Hi, I'm Abu Dzakiyyah
 
 ##  🤝🏻 &nbsp;Connect with Me
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abydzakiyyah) 
