@@ -6,7 +6,6 @@
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/abudzakiyyah) 
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/abydzakiyyah)
 [![Instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abydzakiyyah)
-[![Website](https://img.shields.io/badge/website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dzakiyyah.com)
 
 ## My Stats
 <p>
