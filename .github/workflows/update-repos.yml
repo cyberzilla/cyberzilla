@@ -1,0 +1,44 @@
+name: 🔄 Update Latest Repositories
+
+on:
+  # Run daily at 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Run when pushing to main (so it updates when you create new repos)
+  push:
+    branches: [main]
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🔄 Update repos data
+        run: node .github/scripts/update-repos.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🎨 Build SVGs with embedded fonts
+        run: |
+          node .github/scripts/build-header-svg.js
+          node .github/scripts/build-terminal-svg.js
+
+      - name: 📝 Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "🔄 Auto-update latest repositories"
+          git push

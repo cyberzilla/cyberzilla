@@ -1,0 +1,101 @@
+<svg width="900" height="160" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .container {
+          width: 900px;
+          height: 160px;
+          display: flex;
+          gap: 16px;
+          padding: 8px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .card {
+          flex: 1;
+          background: linear-gradient(135deg, #0d1117, #161b22);
+          border: 1px solid rgba(255,255,255,0.06);
+          border-radius: 12px;
+          padding: 20px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+          position: relative;
+          overflow: hidden;
+          transition: all 0.3s;
+        }
+        .card::before {
+          content: '';
+          position: absolute;
+          top: 0; left: 0;
+          width: 100%;
+          height: 3px;
+          border-radius: 12px 12px 0 0;
+        }
+        .c1::before { background: linear-gradient(90deg, #00ff88, #00cc6a); }
+        .c2::before { background: linear-gradient(90deg, #00aaff, #0077cc); }
+        .c3::before { background: linear-gradient(90deg, #8a2be2, #6b1fb8); }
+        .c4::before { background: linear-gradient(90deg, #fbbf24, #d4a017); }
+
+        .icon {
+          font-size: 28px;
+          margin-bottom: 8px;
+          animation: iconBounce 2s ease-in-out infinite;
+        }
+        .c1 .icon { animation-delay: 0s; }
+        .c2 .icon { animation-delay: 0.3s; }
+        .c3 .icon { animation-delay: 0.6s; }
+        .c4 .icon { animation-delay: 0.9s; }
+
+        @keyframes iconBounce {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-6px); }
+        }
+
+        .label {
+          font-size: 11px;
+          color: rgba(200, 220, 255, 0.4);
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          margin-bottom: 4px;
+        }
+        .value {
+          font-size: 14px;
+          font-weight: 600;
+          color: #e2e8f0;
+        }
+
+        /* Glow effect on cards */
+        .c1 { box-shadow: 0 4px 20px rgba(0, 255, 136, 0.05); }
+        .c2 { box-shadow: 0 4px 20px rgba(0, 170, 255, 0.05); }
+        .c3 { box-shadow: 0 4px 20px rgba(138, 43, 226, 0.05); }
+        .c4 { box-shadow: 0 4px 20px rgba(251, 191, 36, 0.05); }
+      </style>
+
+      <div class="container">
+        <div class="card c1">
+          <div class="icon">&#x1F4CD;</div>
+          <div class="label">Location</div>
+          <div class="value">Indonesia &#x1F1EE;&#x1F1E9;</div>
+        </div>
+        <div class="card c2">
+          <div class="icon">&#x1F4BC;</div>
+          <div class="label">Focus</div>
+          <div class="value">Web Development</div>
+        </div>
+        <div class="card c3">
+          <div class="icon">&#x1F4DA;</div>
+          <div class="label">Learning</div>
+          <div class="value">Always Growing</div>
+        </div>
+        <div class="card c4">
+          <div class="icon">&#x2615;</div>
+          <div class="label">Fuel</div>
+          <div class="value">Coffee &#x2764;&#xFE0F; Code</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

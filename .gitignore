@@ -1,0 +1,20 @@
+# ═══════════════════════════════════════════
+# Source font files (embedded into SVGs at build time)
+# Keep in repo for GitHub Actions to build SVGs
+# ═══════════════════════════════════════════
+
+# Intermediate / temporary build artifacts
+*.b64
+*.ps1
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
