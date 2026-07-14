@@ -30,8 +30,6 @@ const LANG_COLORS = {
 // ═══════════════════════════════════════════════════════════════
 
 const STATS_URLS = {
-  'github-stats.svg': `https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9&ring_color=00ff88`,
-  'top-langs.svg': `https://github-readme-stats.vercel.app/api/top-langs/?username=${USERNAME}&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=c9d1d9&layout=compact&langs_count=8`,
   'streak-stats.svg': `https://github-readme-streak-stats.herokuapp.com?user=${USERNAME}&theme=dark&hide_border=true&background=0D1117&stroke=00ff8822&ring=00ff88&fire=00aaff&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=555555`,
   'contribution-graph.svg': `https://github-readme-activity-graph.vercel.app/graph?username=${USERNAME}&bg_color=0d1117&color=00ff88&line=00aaff&point=8a2be2&area_color=00ff8815&area=true&hide_border=true&custom_title=Contribution%20Timeline`,
 };
@@ -199,14 +197,34 @@ function generatePinCards(repos) {
     const color = COLORS[i % COLORS.length];
     const color2 = COLORS[(i + 1) % COLORS.length];
     let row = '  <tr>\n';
-    row += `    <td>\n      <a href="${repos[i].html_url}">\n        <img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${repos[i].name}&bg_color=0d1117&title_color=${color.accent.slice(1)}&icon_color=${color.accent.slice(1)}&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="${repos[i].name}"/>\n      </a>\n    </td>\n`;
+
+    // First repo
+    const r1 = repos[i];
+    const lang1 = encodeURIComponent(r1.language || 'Code');
+    const desc1 = escapeXml((r1.description || 'No description').substring(0, 80));
+    row += `    <td>
+      <a href="${r1.html_url}">
+        <img src="https://img.shields.io/badge/${encodeURIComponent(r1.name)}-${lang1}%20⭐${r1.stargazers_count}%20🍴${r1.forks_count}-${color.accent.slice(1)}?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="${r1.name}"/>
+      </a>
+      <br/><sub>${desc1}</sub>
+    </td>\n`;
+
+    // Second repo
     if (repos[i + 1]) {
-      row += `    <td>\n      <a href="${repos[i + 1].html_url}">\n        <img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${repos[i + 1].name}&bg_color=0d1117&title_color=${color2.accent.slice(1)}&icon_color=${color2.accent.slice(1)}&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="${repos[i + 1].name}"/>\n      </a>\n    </td>\n`;
+      const r2 = repos[i + 1];
+      const lang2 = encodeURIComponent(r2.language || 'Code');
+      const desc2 = escapeXml((r2.description || 'No description').substring(0, 80));
+      row += `    <td>
+      <a href="${r2.html_url}">
+        <img src="https://img.shields.io/badge/${encodeURIComponent(r2.name)}-${lang2}%20⭐${r2.stargazers_count}%20🍴${r2.forks_count}-${color2.accent.slice(1)}?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="${r2.name}"/>
+      </a>
+      <br/><sub>${desc2}</sub>
+    </td>\n`;
     }
     row += '  </tr>';
     rows.push(row);
   }
-  return `<table>\n${rows.join('\n')}\n</table>`;
+  return '<table>\n' + rows.join('\n') + '\n</table>';
 }
 
 // ═══════════════════════════════════════════════════════════════

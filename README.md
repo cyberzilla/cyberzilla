@@ -52,10 +52,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cyberzilla&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff88&title_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="180em" alt="GitHub Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cyberzilla&theme=github_dark" height="180em" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberzilla&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00ff88&text_color=c9d1d9&layout=compact&langs_count=8" height="180em" alt="Top Languages"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberzilla&theme=github_dark" height="180em" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -87,25 +87,29 @@
   <tr>
     <td>
       <a href="https://github.com/cyberzilla/czWebview">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberzilla&repo=czWebview&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="czWebview"/>
+        <img src="https://img.shields.io/badge/czWebview-Visual%20Basic%206.0%20⭐0%20🍴1-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czWebview"/>
       </a>
+      <br/><sub>Embed modern web content (HTML5, CSS3, ES6+) directly in VB6 applications using </sub>
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czSocket">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberzilla&repo=czSocket&bg_color=0d1117&title_color=00aaff&icon_color=00aaff&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="czSocket"/>
+        <img src="https://img.shields.io/badge/czSocket-Visual%20Basic%206.0%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czSocket"/>
       </a>
+      <br/><sub>VB6 UserControl for TCP, TLS, HTTP/HTTPS, and WebSocket — zero dependencies, jus</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/cyberzilla/czelectro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberzilla&repo=czelectro&bg_color=0d1117&title_color=8a2be2&icon_color=8a2be2&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="czelectro"/>
+        <img src="https://img.shields.io/badge/czelectro-JavaScript%20⭐1%20🍴0-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czelectro"/>
       </a>
+      <br/><sub>A web-based circuit simulation tool with drag-and-drop components, flexible wire</sub>
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czeditor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberzilla&repo=czeditor&bg_color=0d1117&title_color=fbbf24&icon_color=fbbf24&text_color=c9d1d9&border_color=1a1f2e&hide_border=false" alt="czeditor"/>
+        <img src="https://img.shields.io/badge/czeditor-JavaScript%20⭐0%20🍴0-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czeditor"/>
       </a>
+      <br/><sub>A powerful, modern web-based code editor built with pure HTML, CSS, and JavaScri</sub>
     </td>
   </tr>
 </table>
