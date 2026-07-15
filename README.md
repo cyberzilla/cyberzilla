@@ -93,7 +93,7 @@
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czSocket">
-        <img src="https://img.shields.io/badge/czSocket-Visual%20Basic%206.0%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czSocket"/>
+        <img src="https://img.shields.io/badge/czSocket-Visual%20Basic%206.0%20⭐0%20🍴1-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czSocket"/>
       </a>
       <br/><sub>VB6 UserControl for TCP, TLS, HTTP/HTTPS, and WebSocket — zero dependencies, jus</sub>
     </td>
