@@ -53,7 +53,7 @@
             <div class="repo-header">
               <span class="repo-icon">&#x1F4D6;</span>
               <span class="repo-name">czSocket</span>
-              <span class="badge-new" style="color: #00aaff; background: #00aaff15; border: 1px solid #00aaff33;">NEW</span>
+              
             </div>
             <div class="repo-desc">VB6 UserControl for TCP, TLS, HTTP/HTTPS, and WebSocket — zero dependencies, just drop one .ctl file</div>
             <div class="repo-footer">
