@@ -34,7 +34,7 @@
             <div class="repo-header">
               <span class="repo-icon">&#x1F4D6;</span>
               <span class="repo-name">czWebview</span>
-              <span class="badge-new" style="color: #00ff88; background: #00ff8815; border: 1px solid #00ff8833;">NEW</span>
+              
             </div>
             <div class="repo-desc">Embed modern web content (HTML5, CSS3, ES6+) directly in VB6 applications using Microsoft Edge We...</div>
             <div class="repo-footer">
