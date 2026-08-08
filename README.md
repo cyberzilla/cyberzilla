@@ -87,7 +87,7 @@
   <tr>
     <td>
       <a href="https://github.com/cyberzilla/czQlite">
-        <img src="https://img.shields.io/badge/czQlite-Visual%20Basic%206.0%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQlite"/>
+        <img src="https://img.shields.io/badge/czQlite-Visual%20Basic%206.0%20⭐0%20🍴1-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQlite"/>
       </a>
       <br/><sub>Truly Single-Instance SQLite UserControl for VB6</sub>
     </td>
