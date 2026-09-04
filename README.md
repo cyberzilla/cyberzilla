@@ -86,30 +86,30 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/cyberzilla/czQlite">
-        <img src="https://img.shields.io/badge/czQlite-Visual%20Basic%206.0%20⭐0%20🍴1-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQlite"/>
+      <a href="https://github.com/cyberzilla/czUI">
+        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
       </a>
-      <br/><sub>Truly Single-Instance SQLite UserControl for VB6</sub>
+      <br/><sub>czUI - Modern User Interface on VB6 Classic</sub>
     </td>
     <td>
-      <a href="https://github.com/cyberzilla/czWebview">
-        <img src="https://img.shields.io/badge/czWebview-Visual%20Basic%206.0%20⭐0%20🍴1-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czWebview"/>
+      <a href="https://github.com/cyberzilla/czQlite">
+        <img src="https://img.shields.io/badge/czQlite-Visual%20Basic%206.0%20⭐0%20🍴1-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQlite"/>
       </a>
-      <br/><sub>Embed modern web content (HTML5, CSS3, ES6+) directly in VB6 applications using </sub>
+      <br/><sub>Truly Single-Instance SQLite UserControl for VB6</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/cyberzilla/czSocket">
-        <img src="https://img.shields.io/badge/czSocket-Visual%20Basic%206.0%20⭐1%20🍴1-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czSocket"/>
+      <a href="https://github.com/cyberzilla/czWebview">
+        <img src="https://img.shields.io/badge/czWebview-Visual%20Basic%206.0%20⭐0%20🍴1-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czWebview"/>
       </a>
-      <br/><sub>VB6 UserControl for TCP, TLS, HTTP/HTTPS, and WebSocket — zero dependencies, jus</sub>
+      <br/><sub>Embed modern web content (HTML5, CSS3, ES6+) directly in VB6 applications using </sub>
     </td>
     <td>
-      <a href="https://github.com/cyberzilla/czelectro">
-        <img src="https://img.shields.io/badge/czelectro-JavaScript%20⭐1%20🍴0-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czelectro"/>
+      <a href="https://github.com/cyberzilla/czSocket">
+        <img src="https://img.shields.io/badge/czSocket-Visual%20Basic%206.0%20⭐1%20🍴1-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czSocket"/>
       </a>
-      <br/><sub>A web-based circuit simulation tool with drag-and-drop components, flexible wire</sub>
+      <br/><sub>VB6 UserControl for TCP, TLS, HTTP/HTTPS, and WebSocket — zero dependencies, jus</sub>
     </td>
   </tr>
 </table>
