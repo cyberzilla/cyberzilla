@@ -87,7 +87,7 @@
   <tr>
     <td>
       <a href="https://github.com/cyberzilla/czUI">
-        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
+        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐0%20🍴1-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
       </a>
       <br/><sub>czUI - Modern User Interface on VB6 Classic</sub>
     </td>
