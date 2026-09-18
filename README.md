@@ -93,7 +93,7 @@
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czUI">
-        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐0%20🍴1-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
+        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐1%20🍴1-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
       </a>
       <br/><sub>czUI - Modern User Interface on VB6 Classic</sub>
     </td>
@@ -107,7 +107,7 @@
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czWebview">
-        <img src="https://img.shields.io/badge/czWebview-Visual%20Basic%206.0%20⭐0%20🍴1-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czWebview"/>
+        <img src="https://img.shields.io/badge/czWebview-Visual%20Basic%206.0%20⭐1%20🍴1-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czWebview"/>
       </a>
       <br/><sub>Embed modern web content (HTML5, CSS3, ES6+) directly in VB6 applications using </sub>
     </td>
