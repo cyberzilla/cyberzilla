@@ -86,16 +86,16 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/cyberzilla/czChart">
-        <img src="https://img.shields.io/badge/czChart-JavaScript%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czChart"/>
+      <a href="https://github.com/cyberzilla/czQR">
+        <img src="https://img.shields.io/badge/czQR-JavaScript%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQR"/>
       </a>
-      <br/><sub>charting solutions</sub>
+      <br/><sub>QRCode Reader &amp; Generator</sub>
     </td>
     <td>
-      <a href="https://github.com/cyberzilla/qrcode">
-        <img src="https://img.shields.io/badge/qrcode-PHP%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="qrcode"/>
+      <a href="https://github.com/cyberzilla/czChart">
+        <img src="https://img.shields.io/badge/czChart-JavaScript%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czChart"/>
       </a>
-      <br/><sub>QRCode Library</sub>
+      <br/><sub>charting solutions</sub>
     </td>
   </tr>
   <tr>
