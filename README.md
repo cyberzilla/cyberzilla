@@ -86,30 +86,30 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/cyberzilla/czQR">
-        <img src="https://img.shields.io/badge/czQR-JavaScript%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQR"/>
+      <a href="https://github.com/cyberzilla/murabba">
+        <img src="https://img.shields.io/badge/murabba-TypeScript%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="murabba"/>
       </a>
-      <br/><sub>QRCode Reader &amp; Generator</sub>
+      <br/><sub>Kufi Murabba Editor</sub>
     </td>
     <td>
-      <a href="https://github.com/cyberzilla/czChart">
-        <img src="https://img.shields.io/badge/czChart-JavaScript%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czChart"/>
+      <a href="https://github.com/cyberzilla/czQR">
+        <img src="https://img.shields.io/badge/czQR-JavaScript%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQR"/>
       </a>
-      <br/><sub>charting solutions</sub>
+      <br/><sub>QRCode Reader &amp; Generator</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/cyberzilla/czUI">
-        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐1%20🍴1-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
+      <a href="https://github.com/cyberzilla/czChart">
+        <img src="https://img.shields.io/badge/czChart-JavaScript%20⭐0%20🍴0-8a2be2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czChart"/>
       </a>
-      <br/><sub>czUI - Modern User Interface on VB6 Classic</sub>
+      <br/><sub>charting solutions</sub>
     </td>
     <td>
-      <a href="https://github.com/cyberzilla/czQlite">
-        <img src="https://img.shields.io/badge/czQlite-Visual%20Basic%206.0%20⭐0%20🍴1-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQlite"/>
+      <a href="https://github.com/cyberzilla/czUI">
+        <img src="https://img.shields.io/badge/czUI-Visual%20Basic%206.0%20⭐1%20🍴1-fbbf24?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czUI"/>
       </a>
-      <br/><sub>Truly Single-Instance SQLite UserControl for VB6</sub>
+      <br/><sub>czUI - Modern User Interface on VB6 Classic</sub>
     </td>
   </tr>
 </table>
