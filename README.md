@@ -93,7 +93,7 @@
     </td>
     <td>
       <a href="https://github.com/cyberzilla/czQR">
-        <img src="https://img.shields.io/badge/czQR-JavaScript%20⭐0%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQR"/>
+        <img src="https://img.shields.io/badge/czQR-JavaScript%20⭐1%20🍴0-00aaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="czQR"/>
       </a>
       <br/><sub>QRCode Reader &amp; Generator</sub>
     </td>
