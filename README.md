@@ -87,7 +87,7 @@
   <tr>
     <td>
       <a href="https://github.com/cyberzilla/murabba">
-        <img src="https://img.shields.io/badge/murabba-TypeScript%20⭐0%20🍴0-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="murabba"/>
+        <img src="https://img.shields.io/badge/murabba-TypeScript%20⭐0%20🍴1-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="murabba"/>
       </a>
       <br/><sub>Kufi Murabba Editor</sub>
     </td>
